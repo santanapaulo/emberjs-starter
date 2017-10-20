@@ -3,7 +3,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'getting-starter',
+    modulePrefix: 'emberjs-starter',
     environment,
     rootURL: '/',
     locationType: 'auto',
